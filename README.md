@@ -1,4 +1,3 @@
-<img width="1417" alt="Dashboard3" src="https://github.com/user-attachments/assets/1e3e8214-b72d-4938-a085-18389c99801d" />## 📊 Human Resources Dashboard
 
 **Role**: Data Analyst & Visualization Developer  
 **Tool**: Power BI  
